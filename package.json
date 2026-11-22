@@ -9,7 +9,7 @@
         "Steven Lloyd Watkin <lloyd@evilprofessor.co.uk>"
     ],
     "publishConfig": {
-        "access": "public"
+        "registry": "https://npm.pkg.github.com"
     },
     "dependencies": {
         "async": "^3.2.1",
